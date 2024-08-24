@@ -113,6 +113,7 @@ li:hover{
     border-width: 0px 0px 1px 0px;
     padding-top: 10px;
     width: 270px;
+    color: white;
 }
 #loginsub{
     background-color: rgb(255, 123, 0);
